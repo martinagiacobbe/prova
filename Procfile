@@ -1,1 +1,1 @@
-web: gunicorn -w 1 --timeout 90 app:app_py
+web: gunicorn -w 1 --timeout 90 app:app
