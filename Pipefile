@@ -1,0 +1,8 @@
+[packages]
+gunicorn = "*"
+flask = "*"
+requests = "*"
+
+
+[requires]
+python_version = "3.6"
